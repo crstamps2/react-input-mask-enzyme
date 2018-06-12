@@ -7,7 +7,7 @@ class App extends Component {
 
   updateInputValue = (e) => {
     this.phone_number = e.target.value
-    if (this.searchTerm.length !== 13) {
+    if (this.phone_number.length !== 13) {
       this.setState({validPhoneNumber: false})
     } else {
       this.setState({validPhoneNumber: true})
