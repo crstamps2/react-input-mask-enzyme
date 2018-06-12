@@ -5740,8 +5740,8 @@ react-error-overlay@^4.0.0:
   resolved "https://registry.yarnpkg.com/react-error-overlay/-/react-error-overlay-4.0.0.tgz#d198408a85b4070937a98667f500c832f86bd5d4"
 
 react-input-mask@^2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/react-input-mask/-/react-input-mask-2.0.1.tgz#fa577d24cd1e0c64d297904be618d0f4b893e773"
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/react-input-mask/-/react-input-mask-2.0.2.tgz#1726b16315eeedcb005d97b4f76d3a03c3d69df8"
   dependencies:
     invariant "^2.2.4"
     warning "^3.0.0"
